@@ -14,7 +14,7 @@ int main()
     product = num1 * num2;
     quotient = num1 / num2;
     modulo = num1 % num2;
-    cout << "Your sum is: " << sum << endl; // outputting value of variable sum
+    cout << endl << "Your sum is: " << sum << endl; // outputting value of variable sum
     cout << "Your difference is: " << difference << endl;
     cout << "Your product is: " << product << endl;
     cout << "Your quotient is: " << quotient << endl;
